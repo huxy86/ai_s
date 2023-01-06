@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AI_s
 // @namespace    可乐
-// @version      1.8
+// @version      1.9
 // @description  可乐
 // @author       可乐
 // @match        *://manager.bilibili.co*
